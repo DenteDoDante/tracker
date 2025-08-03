@@ -1,1 +1,1 @@
-For OSINT pourposes,still under development.
+For OSINT purposes,still under development.
